@@ -16,9 +16,8 @@
 총무 : 호기
 
 ## ⚖️ 규칙
-1. 지각 시 벌금 5000원에서 배수로 늘어난다.
-2. 각자 요약본 PR은 스터디 시작 전 까지만 받는다. (늦으면 벌금)
-3. 스터디 시간 늦으면 벌금
+1. 하루 3강씩 읽고 정리
+2. 프로그래머스 sql 고득점 키트 문제풀기 (자율)
 
 ## 👨‍👨‍👦‍👦 멤버
 | <img src="https://avatars.githubusercontent.com/jihunParkkk" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/SongGwanSeok" width=150> | <img src="https://avatars.githubusercontent.com/sgo722" width=150> |
