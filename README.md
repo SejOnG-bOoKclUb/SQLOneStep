@@ -20,7 +20,7 @@
 2. 프로그래머스 sql 고득점 키트 문제풀기 (자율)
 
 ## 👨‍👨‍👦‍👦 멤버
-| <img src="https://avatars.githubusercontent.com/jihunParkkk" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/SongGwanSeok" width=150> | <img src="https://avatars.githubusercontent.com/sgo722" width=150> |
-|:--:|:--:|:--:|:--:|
-| [@감자](https://github.com/jihunparkkk) | [@호기](https://github.com/hoyeonyy)| [@석마](https://github.com/SongGwanSeok)| [@더마포](https://github.com/sgo722)| 
+| <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/SongGwanSeok" width=150> | 
+|:--:|:--:|
+| [@호기](https://github.com/hoyeonyy)| [@석마](https://github.com/SongGwanSeok)|
 
