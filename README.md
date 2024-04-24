@@ -8,10 +8,10 @@
 
 | Section  |Date| 완료 |
 |----------|--| -- |
-| Section1 ~ 5 |2024.03.31 SUN| ✅ |
-| Section6 ~ 8 |2024.04.04 THU| ✅ |
-| Section9 ~ 10 |2024.04.07 SUN| ✅ |
-| Section11 ~ 12 |2024.04.13 SAT|   |
+| Section1 ~ 9 |2024.04.24 WED| ✅ |
+| Section10 ~ 18 |2024.04.28 SUN|   |
+| Section19 ~ 27 |2024.05.01 WED|   |
+| Section28 ~ 36 |2024.05.05 SUN|   |
 
 총무 : 호기
 
