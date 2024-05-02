@@ -9,7 +9,7 @@
 | Section  |Date| 완료 |
 |----------|--| -- |
 | Section1 ~ 9 |2024.04.24 WED| ✅ |
-| Section10 ~ 18 |2024.04.28 SUN|   |
+| Section10 ~ 18 |2024.04.28 SUN| ✅ |
 | Section19 ~ 27 |2024.05.01 WED|   |
 | Section28 ~ 36 |2024.05.05 SUN|   |
 
